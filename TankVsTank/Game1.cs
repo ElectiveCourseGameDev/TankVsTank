@@ -75,8 +75,14 @@ namespace TankVsTank
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
-            if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
-                Exit();
+            if (Keyboard.GetState().IsKeyDown(Keys.Up)) _tank.PositionY--;
+
+            if (Keyboard.GetState().IsKeyDown(Keys.Down)) _tank.PositionY++;
+
+            if (Keyboard.GetState().IsKeyDown(Keys.Left)) _tank.PositionX--;
+
+            if (Keyboard.GetState().IsKeyDown(Keys.Right)) _tank.PositionX++;
+            
 
             // TODO: Add your update logic here
 
