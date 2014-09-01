@@ -11,3 +11,4 @@ c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\ob
 c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\Content\tank.png
 c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\Content\tank2.gif
 c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\Content\car.png
+c:\Users\ebva.RHS\Documents\Visual Studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\Content\Stencil.xnb

@@ -24,6 +24,7 @@ namespace TankVsTank
         private Tank _tank;
         private SpriteBatch _spriteBatch;
         private Texture2D _tankTexture;
+        private SpriteFont _font;
 
         public Game1()
             : base()
@@ -56,6 +57,12 @@ namespace TankVsTank
                 _tankTexture = Content.Load<Texture2D>("car.png"); 
                 _tank = new Tank(this, new Vector2(100,100), _tankTexture);
                 GameObjects.Add(_tank);
+
+                // add text to my game
+                _font = Content.Load<SpriteFont>("Stencil");
+                TextObject font = new TextObject(this, _font, new Vector2(200,200), "Tank Vs Tank");
+                GameObjects.Add(font);
+
             // TODO: use this.Content to load your game content here
         }
 
@@ -95,7 +102,7 @@ namespace TankVsTank
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.White);
+            GraphicsDevice.Clear(Color.CornflowerBlue);
             _spriteBatch.Begin();
             foreach (SpriteObject gameObject in GameObjects)
             {
