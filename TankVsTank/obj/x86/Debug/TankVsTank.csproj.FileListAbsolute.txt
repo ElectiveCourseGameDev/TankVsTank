@@ -1,0 +1,13 @@
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\SDL.dll
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\TankVsTank.exe
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\TankVsTank.pdb
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\Lidgren.Network.dll
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\MonoGame.Framework.dll
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\OpenTK.dll
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\Tao.Sdl.dll
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\obj\x86\Debug\TankVsTank.csprojResolveAssemblyReference.cache
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\obj\x86\Debug\TankVsTank.exe
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\obj\x86\Debug\TankVsTank.pdb
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\Content\tank.png
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\Content\tank2.gif
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\TankVsTank\TankVsTank\bin\WindowsGL\Debug\Content\car.png
